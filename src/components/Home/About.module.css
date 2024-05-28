@@ -1,0 +1,57 @@
+/* About.module.css */
+
+.homeAboutSection {
+    padding: 100px 0;
+    
+  }
+  
+  .homeAboutDescription {
+    color: #ffffff;
+  }
+  
+  .homeAboutDescription h1 {
+    font-size: 2.6em;
+    color: #e4e4e4;
+  }
+  
+  .homeAboutBody {
+    font-size: 1.2em;
+    color: #ffffff;
+  }
+  
+  .yellow {
+    color: #f39c12;
+  }
+  
+  .myAvatar {
+    text-align: center;
+  }
+  
+  .homeAboutSocial {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .homeAboutSocialLinks {
+    list-style: none;
+    padding: 0;
+  }
+  .homeAboutSocial h1{
+    color: #ffffff;
+  }
+  
+  .socialIcons {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .homeSocialIcons {
+    font-size: 2em;
+    color: #ffffff;
+    transition: color 0.3s ease;
+  }
+  
+  .homeSocialIcons:hover {
+    color: #f39c12;
+  }
+  

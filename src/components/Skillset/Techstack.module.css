@@ -1,0 +1,27 @@
+.rowStyle {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+  }
+  
+  .techIcons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    margin: 10px;
+    width: 120px;
+    height: 120px;
+    background-color: #1a1a2e;
+    border-radius: 10px;
+    color: #ffffff;
+    border: 2px solid #282c34;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .techIcons:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px #9b59b6; 
+    border-color: #9b59b6;
+  }
+  
