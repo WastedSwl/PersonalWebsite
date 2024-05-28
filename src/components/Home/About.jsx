@@ -27,7 +27,7 @@ const About = () => {
                   <br />
                   <br />I am proficient in
                     <b className={styles.yellow}> Javascript, </b>
-                    as well as have knowledge in programming languages such as Python and MySql
+                    as well as have knowledge in programming language such as Python
                   <br />
                   <br />
                   I have a passion for working
